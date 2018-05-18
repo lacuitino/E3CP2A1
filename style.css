@@ -75,26 +75,49 @@ p{
 .python{
 	background-color: orange;
 	color: white;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 5px;
 }
 
 .htm{
 	background-color: orange;
 	color: white;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 5px;
 }
 
 .css{
 	background-color: orange;
 	color: white;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 5px;
 }
 
 .js{
 	background-color: orange;
 	color: white;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 5px;
 }
 
 .php{
 	background-color: orange;
 	color: white;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 5px;
 }
 
+.right{
+	padding-left: 30px;
+}
 
