@@ -197,10 +197,16 @@ body{
 	border-color: #ececec;
 }
 
-ul li{
-	list-style-type: none;
+.star{
 	float: left;
 }
+
+.star img{
+	max-width: 20%;
+}
+
+
+
 
 
 
