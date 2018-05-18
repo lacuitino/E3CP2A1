@@ -22,10 +22,17 @@
 img{
 	width: 25%;
 	border-radius: 50%;
+	border-style: solid;
+	border-color: #ececec;
+	border-width: 7px;
 }
 
 .oran{
 	color: orange;
+}
+
+.initial{
+	color: black;
 }
 
 li span{
@@ -61,7 +68,7 @@ p{
 .hob{
 	float: left;
 	padding: 5px; 
-	margin-left: 10px;
+	margin: 2px;
 	list-style-type: none;
 	background-color: purple;
 	color: white;
@@ -133,7 +140,7 @@ body{
 
 .main{
 	background-color: white;
-	text-align: center;
+	margin: 42.5px;
 }
 
 .foot{
@@ -142,6 +149,7 @@ body{
 	border-width: 0;
 	border-top-width: 1px;
 	margin: 0px;
+	border-color: #ececec;
 }
 
 .foottext{
@@ -149,9 +157,11 @@ body{
 }
 
 .header{
+	text-align: center;
 	border-style: solid;
 	border-width: 0;
 	border-bottom-width: 1px;
+	border-color: #ececec;
 }
 
 
