@@ -52,7 +52,7 @@ p{
 	clear: both;
 }
 
-@media (max-width: 500px){
+@media (max-width: 639px){
 	.col-md-4{
 		float: none;
 	}
@@ -117,7 +117,43 @@ p{
 	padding-left: 5px;
 }
 
+.left{
+	padding-left: 20px;
+	text-align: left;
+}
+
 .right{
 	padding-left: 30px;
+	text-align: left;
 }
+
+body{
+	background-color: #ececec;
+}
+
+.main{
+	background-color: white;
+	text-align: center;
+}
+
+.foot{
+	padding-right: 20px;
+	border-style: solid;
+	border-width: 0;
+	border-top-width: 1px;
+	margin: 0px;
+}
+
+.foottext{
+	margin: 5px;
+}
+
+.header{
+	border-style: solid;
+	border-width: 0;
+	border-bottom-width: 1px;
+}
+
+
+
 
